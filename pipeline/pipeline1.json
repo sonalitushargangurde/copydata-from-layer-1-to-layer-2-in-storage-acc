@@ -46,7 +46,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ds_source",
+						"referenceName": "ds_sink",
 						"type": "DatasetReference"
 					}
 				]
