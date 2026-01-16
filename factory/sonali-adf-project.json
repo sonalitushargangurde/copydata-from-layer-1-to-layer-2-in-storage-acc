@@ -1,0 +1,9 @@
+{
+	"name": "sonali-adf-project",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "216456e7-1373-4858-91b9-9da95b92ac15",
+		"tenantId": "8b436efc-61e1-4899-ae8d-627c119005a0"
+	}
+}
